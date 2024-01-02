@@ -1,0 +1,62 @@
+.edit-post-container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  background-image: url(https://wallpapercave.com/wp/gWML7Jw.jpg);
+}
+
+.edit-inputs {
+  margin-bottom: 20px;
+}
+
+input[type="text"],
+textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: bolder;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+Link {
+  text-decoration: none;
+  color: #007bff;
+}
+
+Link:hover {
+  text-decoration: underline;
+}
+
+.cancel-link {
+  font-size: 16px;
+  color: #f5f8f8;
+  font-weight: bolder;
+  text-decoration: none;
+  cursor: pointer;
+  border-radius: 5px;
+  padding: 8px;
+  background-color: #007bff;
+}
+
+.cancel-link:hover {
+  text-decoration: underline;
+}
+
+h2{
+  color: black;
+}
